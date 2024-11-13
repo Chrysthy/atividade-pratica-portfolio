@@ -1,5 +1,7 @@
 <h1 align="center"> Portfolio Pessoal </h1> 
 
+<p align="center">Portfólio criado na faculdade durante as aulas de Bootstrap.</p>
+
 <p align="center">  
   <a href="#-screenshots">Screenshots</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-information">Information</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -11,13 +13,12 @@
   <a href="#support">Support</a>  
 </p>
 
+
+
 * Baseado no Template: [iPortfolio](https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/)
 * Autor: [BootstrapMade](BootstrapMade.com)
 * Licença: [Bootstrap Made License](https://bootstrapmade.com/license/)
 
-## Projeto Prático
-
-Portfólio criado na faculdade durante as aulas de Bootstrap.
 
 <br>
 
