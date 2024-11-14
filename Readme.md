@@ -29,6 +29,8 @@
 
 <br>
 
+## 📌 Information
+
 * Baseado no Template: [iPortfolio](https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/)
 * Autor: [BootstrapMade](BootstrapMade.com)
 * Licença: [Bootstrap Made License](https://bootstrapmade.com/license/)
