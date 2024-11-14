@@ -57,6 +57,5 @@
 
 <br>
 
-<hr>
-<h2> Support </h2>
-<p> If you liked it, press the Star ⭐ Button, please! 😄 </p>
+## 🌟 Support
+<p> If you like this project, please give it a star ⭐ and share it with others! 😄 </p>
