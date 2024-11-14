@@ -41,6 +41,7 @@
 
 - HTML
 - CSS
+- JavaScript
 - Bootstrap
 - Git e GitHub
 
