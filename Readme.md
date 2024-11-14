@@ -35,6 +35,14 @@
 * Autor: [BootstrapMade](BootstrapMade.com)
 * Licença: [Bootstrap Made License](https://bootstrapmade.com/license/)
 
+<br>
+
+## 🛠 Technologies
+
+- HTML
+- CSS
+- Bootstrap
+- Git e GitHub
 
 <br>
 
